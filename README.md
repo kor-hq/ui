@@ -1,3 +1,12 @@
+# Archived
+
+I’ve shifted my focus and rebalanced my projects. I’ll be working exclusively on OpenMarch and Slate. You can find my UI library, Slate Design, below. It uses KOR UI as a template, so I’m not throwing away this work. It’s just a different design system and organization. It makes more sense to move my personal projects to Slate, and it eliminates one organization. I’ll still be a UI designer at OpenMarch.
+
+I’m happy with the work I’ve done on this project. It’s given me a deeper understanding of design and introduced me to Svelte and Storybook design systems.
+
+- https://github.com/SlateSoftware/Slate-Web
+- https://github.com/OpenMarch/OpenMarch
+
 ![Banner](/.github/assets/github.png)
 
 # KOR UI
